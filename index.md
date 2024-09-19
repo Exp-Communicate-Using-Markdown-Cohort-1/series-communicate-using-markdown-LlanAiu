@@ -7,3 +7,7 @@ function Test(num: int): int {
   return num;
 }
 ```
+
+- [ ] Pre-assignment warm-up
+- [ ] Mentally prepare to start assignment
+- [ ] Contemplate starting assignment
